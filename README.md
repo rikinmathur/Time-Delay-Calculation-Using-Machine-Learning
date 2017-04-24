@@ -7,7 +7,7 @@ using Machine Learning.
 Getting Started
 
 The code for the C programming is done in PSOC and is not published in this repository as it is 
-a property of the Analog Lab at Columbia University. However, the MATLAB code provides UART detetion and Machine learning analysis. 
+a property of the Analog Lab at Columbia University. However, the MATLAB code provides UART detection and Machine learning analysis. 
 
 Prerequisites
 
